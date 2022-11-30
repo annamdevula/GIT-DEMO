@@ -5,5 +5,4 @@ Hellooo second .........
 First branch 2nd commit
 Branch tow commit
 BRANCH ONE MODIFIED
-added commit two
 ADDED COMMIT THREE
