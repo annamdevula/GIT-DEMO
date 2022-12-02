@@ -7,3 +7,4 @@ Branch tow commit
 BRANCH ONE MODIFIED fresh ine created branch
 added commit two
 ADDED COMMIT THREE
+added commit three
